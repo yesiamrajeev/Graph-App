@@ -12,8 +12,7 @@ Programming Language: Java
 Framework: JavaFX
 Version Control: Git
 # Installation
-Clone the repository: git clone https://github.com/your-username/graph-app.git
-Import the project into your Java development environment (e.g., IntelliJ, Eclipse).
+Import the project into your Java development environment (e.g., IntelliJ, Eclipse, Android Studio).
 Set up JavaFX libraries and dependencies.
 Build and run the application.
 # Usage
