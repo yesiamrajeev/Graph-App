@@ -1,0 +1,22 @@
+[versions]
+com-android-application = "8.1.0-alpha10"
+junit = "4.13.2"
+androidx-test-ext-junit = "1.1.3"
+espresso-core = "3.4.0"
+appcompat = "1.4.1"
+material = "1.5.0"
+constraintlayout = "2.1.3"
+
+[libraries]
+junit = { group = "junit", name = "junit", version.ref = "junit" }
+androidx-test-ext-junit = { group = "androidx.test.ext", name = "junit", version.ref = "androidx-test-ext-junit" }
+espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espresso-core" }
+appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
+material = { group = "com.google.android.material", name = "material", version.ref = "material" }
+constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayout", version.ref = "constraintlayout" }
+
+[plugins]
+com-android-application = { id = "com.android.application", version.ref = "com-android-application" }
+buildProperties = "com.novoda.build-properties:0.4.1"
+[bundles]
+
