@@ -1,6 +1,8 @@
 # Graph-App
 A graph application that allows users to input X and Y coordinates and plots the points on a graph. The app provides a user-friendly interface to visualize and interact with the plotted data.
-![screenshot1](https://github.com/yesiamrajeev/Graph-App/assets/125568812/0c0469db-4705-413a-bdb2-5ec18fd11256)
+
+<img  src="https://github.com/yesiamrajeev/Graph-App/assets/125568812/0c0469db-4705-413a-bdb2-5ec18fd11256" width="250" height="500">
+
 
 
 # Features
