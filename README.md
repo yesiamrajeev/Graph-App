@@ -27,6 +27,7 @@ Interact with the graph using the provided controls, such as zooming and panning
 Customize the graph appearance and settings as desired.
 Save the plotted data for future use or load previously saved data.
 Explore and analyze the plotted points on the graph.
+
 # Contributions
 Contributions are welcome! If you would like to contribute to this project, please follow the standard Git workflow:
 
